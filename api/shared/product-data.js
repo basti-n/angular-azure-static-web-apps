@@ -18,6 +18,12 @@ const data = {
       description: 'Bag of 7 fresh McIntosh apples',
       quantity: 1,
     },
+    {
+      id: 40,
+      name: 'Pizza',
+      description: '12 slices of fresh pizza',
+      quantity: 1,
+    },
   ],
 };
 

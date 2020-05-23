@@ -6,8 +6,22 @@
   "debug.internalConsoleOptions": "neverOpen",
   "azureFunctions.preDeployTask": "npm prune",
   "workbench.colorCustomizations": {
-    "activityBar.background": "#2F0291",
-    "titleBar.activeBackground": "#4102CB",
-    "titleBar.activeForeground": "#FCFAFF"
-  }
+    "activityBar.background": "#2f0291",
+    "titleBar.activeBackground": "#1f015f",
+    "titleBar.activeForeground": "#e7e7e7",
+    "activityBar.activeBackground": "#2f0291",
+    "activityBar.activeBorder": "#bd3d03",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#bd3d03",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#1f015f",
+    "statusBar.border": "#1f015f",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#2f0291",
+    "titleBar.border": "#1f015f",
+    "titleBar.inactiveBackground": "#1f015f99",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#1f015f"
 }
